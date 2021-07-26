@@ -1,0 +1,9 @@
+INFO:root:Ran with args: ('Ellis', 24), and kwargs: {}
+INFO:root:Ran with args: ('JJ', 23), and kwargs: {}
+WARNING:param.Column00130:Displaying Panel objects in the notebook requires the panel extension to be loaded. Ensure you run pn.extension() before displaying objects in the notebook.
+INFO:root:Ran with args: ('Ellis', 24), and kwargs: {}
+INFO:root:Ran with args: ('JJ', 23), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}
+INFO:root:Ran with args: ('Ellis', 24), and kwargs: {}
+INFO:root:Ran with args: ('JJ', 23), and kwargs: {}
+INFO:root:Ran with args: (), and kwargs: {}

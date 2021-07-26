@@ -18,7 +18,7 @@ primary_view = pn.Column (
 
 my_template = pn.template.FastListTemplate(
     site="Sample Site",
-    title="Memories",
+    title="Foobar",
     favicon="assets/ammo_box.png",
     header_background=header_color,
     main=[
