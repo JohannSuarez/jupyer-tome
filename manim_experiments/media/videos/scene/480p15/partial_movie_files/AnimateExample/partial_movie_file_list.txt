@@ -1,0 +1,4 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/scene/480p15/partial_movie_files/AnimateExample/3163782288_2489310917_1158351086.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/scene/480p15/partial_movie_files/AnimateExample/2201830969_3228578370_1158351086.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/scene/480p15/partial_movie_files/AnimateExample/2201830969_2839631542_288658013.mp4'
