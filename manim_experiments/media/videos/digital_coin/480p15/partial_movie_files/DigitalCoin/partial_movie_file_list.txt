@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/3163782288_1470183500_1240453128.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_2218413459_3163465428.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_2839631542_973099360.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_795832198_1525388180.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_2839631542_561421729.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_2018263740_1497788579.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_2839631542_68630885.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_2388069763_2778490041.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_2839631542_3866185491.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_4026136022_2105731515.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_2839631542_1114467604.mp4'
+file 'file:/home/johann/Documents/jupyter-tome/manim_experiments/media/videos/digital_coin/480p15/partial_movie_files/DigitalCoin/2201830969_3493041802_1054292875.mp4'
