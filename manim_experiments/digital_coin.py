@@ -48,15 +48,17 @@ class DigitalCoin(Scene):
             binary_set = [Text(r_binaries[i], font="PT Mono").scale(
                 0.6) for i in range(6)]
 
+            starting_binary = binary_set[0].copy()
+
         coin = VGroup(outer_circle, inner_circle, binary_set[0])
 
         self.play(FadeIn(coin))
 
-        for i in range(5):
+        for i in range(6):
             self.play(Transform(binary_set[0], binary_set[i]), run_time=0.1)
             self.wait(1)
 
-        self.wait()
+        self.play(Transform(binary_set[0], starting_binary), run_time=0.1)
 
 
 # Block comments to possibly reference in the future.
